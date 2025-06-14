@@ -75,14 +75,14 @@
 </p>
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankpatr1&show_icons=true&locale=en&layout=compact&theme=dark" alt="AbhisekDas2025" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbhisekDas2025&show_icons=true&locale=en&layout=compact&theme=dark" alt="AbhisekDas2025" /></p>
 <br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankpatr1&show_icons=true&locale=en&theme=dark" alt="AbhisekDas2025" /></p><br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhisekDas2025&show_icons=true&locale=en&theme=dark" alt="AbhisekDas2025" /></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankpatr1&theme=dark" alt="AbhisekDas2025" /></p><br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhisekDas2025&theme=dark" alt="AbhisekDas2025" /></p><br><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankpatr1" alt="AbhisekDas2025" /></a> </p><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankpatr1&label=Profile%20views&color=0e75b6&style=flat" alt="AbhisekDas2025" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbhisekDas2025" alt="AbhisekDas2025" /></a> </p><br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhisekDas2025&label=Profile%20views&color=0e75b6&style=flat" alt="AbhisekDas2025" /> </p>
 
 
 <!--
